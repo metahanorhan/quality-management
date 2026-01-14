@@ -205,28 +205,20 @@
     <!-- Main Content Area -->
     <main class="flex-1 h-full overflow-y-auto relative scroll-smooth" id="scroll-container">
 
-        <!-- Top Header Banner (Redesigned: Image -> Info Stack) -->
+        <!-- Top Header Banner (Redesigned: Info Stack only) -->
         <header class="flex flex-col shrink-0 shadow-sm bg-white relative">
 
-            <!-- 1. Hello Kitty Image Area -->
-            <div class="h-40 md:h-60 w-full relative overflow-hidden group">
-                <img src="assets/hk-header.png"
-                    class="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
-                    alt="Header">
-                <div class="absolute inset-0 bg-gradient-to-t from-white/20 to-transparent"></div>
+            <!-- Controls Stack -->
+            <div class="px-5 py-6 flex flex-col gap-3 bg-white relative z-10">
 
-                <!-- Mobile Menu Button (Absolute on Image) -->
+                <!-- Mobile Menu Button (Moved here) -->
                 <button onclick="toggleSidebar()"
-                    class="md:hidden absolute top-4 left-4 w-10 h-10 bg-white/90 backdrop-blur-sm rounded-full shadow-lg text-hk_hot flex items-center justify-center hover:scale-110 transition-transform active:scale-90 ring-2 ring-pink-100 z-10">
+                    class="md:hidden absolute top-6 right-5 w-10 h-10 bg-pink-50 text-hk_hot rounded-full shadow-sm flex items-center justify-center hover:bg-hk_hot hover:text-white transition-colors">
                     <i class="fas fa-bars text-lg"></i>
                 </button>
-            </div>
-
-            <!-- 2, 3, 4. Controls Stack (Below Image) -->
-            <div class="px-5 py-4 flex flex-col gap-3 bg-white relative z-10">
 
                 <!-- Page Number -->
-                <div class="flex items-center justify-center md:justify-start">
+                <div class="flex items-center justify-start">
                     <span id="current-page-num"
                         class="bg-hk_hot text-white text-xs font-bold px-3 py-1 rounded-full shadow-sm">
                         #1
@@ -234,13 +226,15 @@
                 </div>
 
                 <!-- Title (Full visibility) -->
-                <h2 class="text-xl md:text-3xl font-bold text-hk_text leading-tight text-center md:text-left drop-shadow-sm break-words font-cute"
-                    id="current-page-title">
-                    Giriş
-                </h2>
+                <div class="pr-12 md:pr-0"> <!-- Padding right for mobile menu button -->
+                    <h2 class="text-xl md:text-3xl font-bold text-hk_text leading-tight text-left drop-shadow-sm break-words font-cute"
+                        id="current-page-title">
+                        Giriş
+                    </h2>
+                </div>
 
                 <!-- Navigation Buttons -->
-                <div class="flex items-center justify-center md:justify-start gap-4 mt-1">
+                <div class="flex items-center justify-start gap-4 mt-1">
                     <button onclick="changePage(-1)"
                         class="w-14 h-12 md:w-12 md:h-12 flex items-center justify-center rounded-2xl bg-pink-100 text-hk_hot hover:bg-hk_hot hover:text-white transition-all active:scale-95 shadow-sm border border-pink-200">
                         <i class="fas fa-chevron-left text-xl"></i>

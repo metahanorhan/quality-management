@@ -203,7 +203,7 @@
     </aside>
 
     <!-- Main Content Area -->
-    <main class="flex-1 flex flex-col h-full relative">
+    <main class="flex-1 h-full overflow-y-auto relative scroll-smooth" id="scroll-container">
 
         <!-- Top Header Banner (Redesigned: Image -> Info Stack) -->
         <header class="flex flex-col shrink-0 shadow-sm bg-white relative">
@@ -260,17 +260,13 @@
         </header>
 
         <!-- Document Viewer (Scrollable) -->
-        <div class="flex-1 overflow-y-auto p-4 md:p-8 scroll-smooth relative" id="main-scroll">
+        <div class="p-4 md:p-8 relative" id="main-scroll">
             <div class="max-w-4xl mx-auto space-y-6 pb-24" id="content-container">
                 <!-- Content injected via JS -->
             </div>
         </div>
 
-        <!-- Floating Action Button for Mobile Copy -->
-        <button onclick="copyCurrentPage()"
-            class="md:hidden fixed bottom-6 right-6 w-14 h-14 bg-hk_hot text-white rounded-full shadow-cute flex items-center justify-center z-30 hover:scale-110 active:scale-90 transition-all border-4 border-white">
-            <i class="fas fa-copy text-xl"></i>
-        </button>
+
 
     </main>
 

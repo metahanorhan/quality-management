@@ -1,0 +1,409 @@
+EN: The organization shall document a quality management system and maintain its effectiveness. TR: Kuruluş, bir kalite yönetim sistemi dokümante etmeli ve etkinliğini sürdürmelidir.
+
+EN: The organization shall document the role(s) undertaken by the organization under the applicable regulatory requirements. TR: Kuruluş, uygulanabilir yasal gereklilikler altında üstlendiği rol(ler)i dokümante etmelidir.
+
+EN: Roles can include manufacturer, authorized representative, importer or distributor. TR: Roller; üretici, yetkili temsilci, ithalatçı veya dağıtıcıyı içerebilir.
+
+EN: The organization shall apply a risk based approach to the control of the appropriate processes. TR: Kuruluş, uygun süreçlerin kontrolü için riske dayalı bir yaklaşım uygulamalıdır.
+
+EN: When the organization chooses to outsource any process that affects product conformity, it shall monitor and ensure control over such processes. TR: Kuruluş ürün uygunluğunu etkileyen herhangi bir süreci dışarıya yaptırmayı seçtiğinde, bu süreçleri izlemeli ve üzerindeki kontrolü sağlamalıdır.
+
+EN: The organization shall retain responsibility of conformity for outsourced processes. TR: Kuruluş, dış kaynaklı süreçler için uygunluk sorumluluğunu sürdürmelidir.
+
+EN: The organization shall document procedures for the validation of the application of computer software used in the QMS. TR: Kuruluş, KYS'de kullanılan bilgisayar yazılımlarının uygulamasının validasyonu (geçerli kılınması) için prosedürler dokümante etmelidir.
+
+EN: Such software applications shall be validated prior to initial use. TR: Bu tür yazılım uygulamaları, ilk kullanımdan önce valide edilmelidir.
+
+EN: Validation activities shall be proportionate to the risk associated with the use of the software. TR: Validasyon faaliyetleri, yazılımın kullanımıyla ilişkili riskle orantılı olmalıdır.
+
+EN: The Quality Manual shall describe the scope of the QMS, including details of and justification for any exclusion or non-application. TR: Kalite El Kitabı, herhangi bir hariç tutma veya uygulamama durumunun detayları ve gerekçeleri dahil olmak üzere KYS'nin kapsamını tanımlamalıdır.
+
+EN: The organization shall establish a Medical Device File for each medical device type or medical device family. TR: Kuruluş, her tıbbi cihaz tipi veya tıbbi cihaz ailesi için bir Tıbbi Cihaz Dosyası oluşturmalıdır.
+
+EN: The Medical Device File shall include a general description of the medical device, intended use/purpose, and labelling. TR: Tıbbi Cihaz Dosyası; tıbbi cihazın genel tanımını, kullanım amacını ve etiketlemesini içermelidir.
+
+EN: Documents required by the QMS shall be controlled. TR: KYS tarafından gerekli görülen dokümanlar kontrol edilmelidir.
+
+EN: Documents must be approved for adequacy prior to issue. TR: Dokümanlar yayınlanmadan önce yeterlilik açısından onaylanmalıdır.
+
+EN: The organization shall prevent the unintended use of obsolete documents. TR: Kuruluş, eski (geçersiz) dokümanların istenmeyen kullanımını önlemelidir.
+
+EN: The organization shall ensure that documents of external origin are identified and their distribution controlled. TR: Kuruluş, dış kaynaklı dokümanların tanımlanmasını ve dağıtımlarının kontrol edilmesini sağlamalıdır.
+
+EN: The organization shall retain at least one copy of obsolete documents for the lifetime of the medical device. TR: Kuruluş, tıbbi cihazın ömrü boyunca eski dokümanların en az bir kopyasını saklamalıdır.
+
+EN: Records shall remain legible, readily identifiable and retrievable. TR: Kayıtlar okunabilir, kolayca ayırt edilebilir ve tekrar elde edilebilir kalmalıdır.
+
+EN: The organization shall define and implement methods for protecting confidential health information contained in records. TR: Kuruluş, kayıtlarda yer alan gizli sağlık bilgilerini korumak için yöntemler tanımlamalı ve uygulamalıdır.
+
+EN: Records shall be retained for at least the lifetime of the medical device, but not less than two years from the medical device release. TR: Kayıtlar en az tıbbi cihazın ömrü boyunca saklanmalı, ancak bu süre cihazın serbest bırakılmasından itibaren iki yıldan az olmamalıdır.
+
+Part 2: Management Responsibility / Yönetim Sorumluluğu
+EN: Top management shall provide evidence of its commitment to the development and implementation of the QMS. TR: Üst yönetim, KYS'nin geliştirilmesi ve uygulanmasına olan taahhüdünün kanıtını sağlamalıdır.
+
+EN: Top management must communicate the importance of meeting customer as well as applicable regulatory requirements. TR: Üst yönetim, yasal gerekliliklerin yanı sıra müşteri şartlarını karşılamanın önemini iletmelidir.
+
+EN: Top management shall ensure that the quality policy is established. TR: Üst yönetim, kalite politikasının oluşturulmasını sağlamalıdır.
+
+EN: The quality policy includes a commitment to comply with requirements and to maintain the effectiveness of the QMS. TR: Kalite politikası, şartlara uyma ve KYS'nin etkinliğini sürdürme taahhüdünü içerir.
+
+EN: Quality objectives shall be established at relevant functions and levels within the organization. TR: Kalite hedefleri, kuruluş içindeki ilgili fonksiyonlarda ve seviyelerde oluşturulmalıdır.
+
+EN: Quality objectives shall be measurable and consistent with the quality policy. TR: Kalite hedefleri ölçülebilir olmalı ve kalite politikasıyla tutarlı olmalıdır.
+
+EN: Top management shall ensure that responsibilities and authorities are defined, documented and communicated. TR: Üst yönetim; sorumluluk ve yetkilerin tanımlanmasını, dokümante edilmesini ve iletilmesini sağlamalıdır.
+
+EN: A management representative shall be appointed from top management. TR: Üst yönetimden bir yönetim temsilcisi atanmalıdır.
+
+EN: The management representative reports to top management on the performance of the QMS and any need for improvement. TR: Yönetim temsilcisi, KYS performansı ve iyileştirme ihtiyaçları hakkında üst yönetime rapor verir.
+
+EN: The management representative ensures the promotion of awareness of applicable regulatory requirements and QMS requirements. TR: Yönetim temsilcisi, uygulanabilir yasal gereklilikler ve KYS şartları konusundaki farkındalığın artırılmasını sağlar.
+
+EN: Top management shall review the organization's QMS at documented planned intervals. TR: Üst yönetim, kuruluşun KYS'sini dokümante edilmiş planlı aralıklarla gözden geçirmelidir.
+
+EN: Management review inputs shall include feedback and complaint handling. TR: Yönetim gözden geçirme girdileri, geri bildirim ve şikayet yönetimini içermelidir.
+
+EN: Management review inputs shall include reporting to regulatory authorities. TR: Yönetim gözden geçirme girdileri, yasal otoritelere yapılan raporlamaları içermelidir.
+
+EN: Management review inputs shall include audits and monitoring and measurement of processes. TR: Yönetim gözden geçirme girdileri, denetimleri ve süreçlerin izlenmesi/ölçülmesini içermelidir.
+
+EN: Management review outputs shall include improvement of the QMS and its processes. TR: Yönetim gözden geçirme çıktıları, KYS'nin ve süreçlerinin iyileştirilmesini içermelidir.
+
+EN: Management review outputs shall include resource needs. TR: Yönetim gözden geçirme çıktıları, kaynak ihtiyaçlarını içermelidir.
+
+Part 3: Resource Management / Kaynak Yönetimi
+EN: Personnel performing work affecting product quality shall be competent on the basis of appropriate education, training, skills and experience. TR: Ürün kalitesini etkileyen işleri yapan personel; uygun öğrenim, eğitim, beceri ve deneyim temelinde yetkin olmalıdır.
+
+EN: The organization shall document the process(es) for establishing competence, providing training, and ensuring awareness of personnel. TR: Kuruluş; yetkinliği oluşturma, eğitim sağlama ve personelin farkındalığını sağlama süreçlerini dokümante etmelidir.
+
+EN: The organization shall evaluate the effectiveness of the actions taken (e.g. training). TR: Kuruluş, alınan aksiyonların (örn. eğitim) etkinliğini değerlendirmelidir.
+
+EN: Personnel shall be aware of the relevance and importance of their activities. TR: Personel, faaliyetlerinin ilgisinin ve öneminin farkında olmalıdır.
+
+EN: Infrastructure includes buildings, workspace, process equipment (hardware/software), and supporting services. TR: Altyapı; binaları, çalışma alanını, proses ekipmanlarını (donanım/yazılım) ve destek hizmetlerini kapsar.
+
+EN: The organization shall document requirements for maintenance activities when they affect product quality. TR: Kuruluş, ürün kalitesini etkilediğinde bakım faaliyetleri için gereklilikleri dokümante etmelidir.
+
+EN: The organization shall document the requirements for the work environment needed to achieve conformity to product requirements. TR: Kuruluş, ürün şartlarına uygunluğu sağlamak için gereken çalışma ortamı gerekliliklerini dokümante etmelidir.
+
+EN: If work environment conditions can have an adverse effect on product quality, requirements shall be documented and monitored. TR: Çalışma ortamı koşullarının ürün kalitesi üzerinde olumsuz bir etkisi olabilecekse, gereklilikler dokümante edilmeli ve izlenmelidir.
+
+EN: Documented requirements for control of contamination with microorganisms or particulate matter are required for sterile medical devices. TR: Steril tıbbi cihazlar için mikroorganizma veya partikül madde ile kontaminasyonun kontrolü için dokümante edilmiş gereklilikler zorunludur.
+
+Part 4: Product Realization (Planning & Customer) / Ürün Gerçekleştirme
+EN: The organization shall plan and develop the processes needed for product realization. TR: Kuruluş, ürün gerçekleştirme için gerekli süreçleri planlamalı ve geliştirmelidir.
+
+EN: The organization shall document one or more processes for risk management in product realization. TR: Kuruluş, ürün gerçekleştirmede risk yönetimi için bir veya daha fazla süreci dokümante etmelidir.
+
+EN: Records of risk management activities shall be maintained. TR: Risk yönetimi faaliyetlerinin kayıtları muhafaza edilmelidir.
+
+EN: The organization shall determine requirements specified by the customer, including delivery and post-delivery activities. TR: Kuruluş, teslimat ve teslimat sonrası faaliyetler dahil olmak üzere müşteri tarafından belirtilen şartları belirlemelidir.
+
+EN: Requirements not stated by the customer but necessary for specified or intended use shall be determined. TR: Müşteri tarafından belirtilmeyen ancak belirtilen veya amaçlanan kullanım için gerekli olan şartlar belirlenmelidir.
+
+EN: Applicable regulatory requirements related to the medical device shall be determined. TR: Tıbbi cihazla ilgili uygulanabilir yasal gereklilikler belirlenmelidir.
+
+EN: The organization shall review the requirements related to the product prior to commitment to supply. TR: Kuruluş, ürünü sağlama taahhüdünden önce ürünle ilgili şartları gözden geçirmelidir.
+
+EN: If the customer provides no documented statement of requirements, the customer requirements shall be confirmed before acceptance. TR: Müşteri dokümante edilmiş bir gereklilik bildirimi sağlamazsa, kabulden önce müşteri gereklilikleri teyit edilmelidir.
+
+EN: The organization shall communicate with customers regarding product information and enquiries/contracts. TR: Kuruluş; ürün bilgisi ve talepler/sözleşmeler konusunda müşterilerle iletişim kurmalıdır.
+
+EN: The organization shall communicate with customers regarding customer feedback, including complaints. TR: Kuruluş, şikayetler dahil olmak üzere müşteri geri bildirimleri konusunda müşterilerle iletişim kurmalıdır.
+
+EN: The organization shall communicate with customers regarding advisory notices. TR: Kuruluş, uyarı notları (danışma notları) konusunda müşterilerle iletişim kurmalıdır.
+
+Part 5: Design and Development / Tasarım ve Geliştirme
+EN: The organization shall document procedures for design and development. TR: Kuruluş, tasarım ve geliştirme için prosedürler dokümante etmelidir.
+
+EN: During design and development planning, the organization shall document the review, verification, validation and transfer activities. TR: Tasarım ve geliştirme planlaması sırasında, kuruluş; gözden geçirme, doğrulama, validasyon ve transfer faaliyetlerini dokümante etmelidir.
+
+EN: Design and development inputs shall include functional, performance, usability and safety requirements. TR: Tasarım ve geliştirme girdileri; fonksiyonel, performans, kullanılabilirlik ve güvenlik gerekliliklerini içermelidir.
+
+EN: Applicable regulatory requirements and standards shall be included in design inputs. TR: Uygulanabilir yasal gereklilikler ve standartlar tasarım girdilerine dahil edilmelidir.
+
+EN: Outputs of risk management shall be included in design inputs. TR: Risk yönetiminin çıktıları tasarım girdilerine dahil edilmelidir.
+
+EN: Design and development inputs shall be complete, unambiguous, and able to be verified. TR: Tasarım ve geliştirme girdileri eksiksiz, net (muğlak olmayan) ve doğrulanabilir olmalıdır.
+
+EN: Design and development outputs shall meet the input requirements. TR: Tasarım ve geliştirme çıktıları, girdi gerekliliklerini karşılamalıdır.
+
+EN: Design outputs shall provide appropriate information for purchasing, production and service provision. TR: Tasarım çıktıları; satın alma, üretim ve hizmet sunumu için uygun bilgi sağlamalıdır.
+
+EN: Design outputs shall specify the characteristics of the product that are essential for its safe and proper use. TR: Tasarım çıktıları, ürünün güvenli ve doğru kullanımı için gerekli olan özelliklerini belirtmelidir.
+
+EN: Systematic reviews of design and development shall be performed at suitable stages. TR: Uygun aşamalarda tasarım ve geliştirmenin sistematik gözden geçirmeleri yapılmalıdır.
+
+EN: Design verification is performed to ensure that the design and development outputs have met the design and development input requirements. TR: Tasarım doğrulaması, tasarım ve geliştirme çıktılarının tasarım ve geliştirme girdi gerekliliklerini karşıladığından emin olmak için yapılır.
+
+EN: Design validation is performed to ensure that the product is capable of meeting the requirements for the specified application or intended use. TR: Tasarım validasyonu (geçerli kılma), ürünün belirtilen uygulama veya kullanım amacı gerekliliklerini karşılama yeteneğine sahip olduğundan emin olmak için yapılır.
+
+EN: Design validation shall be conducted on representative product (e.g., initial production units). TR: Tasarım validasyonu, temsili ürün (örn. ilk üretim birimleri) üzerinde yürütülmelidir.
+
+EN: Clinical evaluations or performance evaluations shall be conducted as part of design validation. TR: Klinik değerlendirmeler veya performans değerlendirmeleri, tasarım validasyonunun bir parçası olarak yürütülmelidir.
+
+EN: Design validation shall be completed prior to release for use of the product. TR: Tasarım validasyonu, ürünün kullanım için serbest bırakılmasından önce tamamlanmalıdır.
+
+EN: Design and development transfer ensures that design outputs are verified as suitable for manufacturing. TR: Tasarım ve geliştirme transferi, tasarım çıktılarının üretime uygun olarak doğrulandığını garanti eder.
+
+EN: Design and development changes shall be identified and records maintained. TR: Tasarım ve geliştirme değişiklikleri tanımlanmalı ve kayıtları tutulmalıdır.
+
+EN: Changes shall be reviewed, verified and validated, as appropriate, and approved before implementation. TR: Değişiklikler uygulanmadan önce uygun şekilde gözden geçirilmeli, doğrulanmalı, valide edilmeli ve onaylanmalıdır.
+
+EN: The organization shall maintain a Design and Development File for each medical device type or family. TR: Kuruluş, her tıbbi cihaz tipi veya ailesi için bir Tasarım ve Geliştirme Dosyası tutmalıdır.
+
+Part 6: Purchasing / Satın Alma
+EN: The organization shall document procedures to ensure that purchased product conforms to specified purchasing information. TR: Kuruluş, satın alınan ürünün belirtilen satın alma bilgisine uyduğundan emin olmak için prosedürler dokümante etmelidir.
+
+EN: The organization shall evaluate and select suppliers based on their ability to supply product in accordance with requirements. TR: Kuruluş, tedarikçileri, gerekliliklere uygun ürün sağlama yeteneklerine dayanarak değerlendirmeli ve seçmelidir.
+
+EN: Criteria for selection, evaluation and re-evaluation shall be established based on risk. TR: Seçme, değerlendirme ve yeniden değerlendirme kriterleri riske dayalı olarak oluşturulmalıdır.
+
+EN: The performance of suppliers shall be monitored. TR: Tedarikçilerin performansı izlenmelidir.
+
+EN: Purchasing information shall describe or reference the product to be purchased. TR: Satın alma bilgisi, satın alınacak ürünü tanımlamalı veya referans vermelidir.
+
+EN: Purchasing information shall include requirements for qualification of personnel. TR: Satın alma bilgisi, personelin kalifikasyonu (nitelik) gerekliliklerini içermelidir.
+
+EN: A written agreement is required notifying the organization of changes in the purchased product. TR: Satın alınan üründeki değişikliklerin kuruluşa bildirilmesini gerektiren yazılı bir anlaşma zorunludur.
+
+EN: The organization shall establish and implement the inspection or other activities necessary for ensuring that purchased product meets specified purchase requirements. TR: Kuruluş, satın alınan ürünün belirtilen satın alma şartlarını karşıladığından emin olmak için muayene veya diğer gerekli faaliyetleri oluşturmalı ve uygulamalıdır.
+
+Part 7: Production and Service Provision / Üretim ve Hizmet Sağlama
+EN: Production and service provision shall be carried out under controlled conditions. TR: Üretim ve hizmet sunumu kontrollü şartlar altında yürütülmelidir.
+
+EN: Controlled conditions include the availability of documented procedures, work instructions, and suitable equipment. TR: Kontrollü şartlar; dokümante edilmiş prosedürlerin, iş talimatlarının ve uygun ekipmanın bulunabilirliğini içerir.
+
+EN: The organization shall maintain a record for each medical device batch (lot) that provides traceability. TR: Kuruluş, her tıbbi cihaz partisi (lot) için izlenebilirlik sağlayan bir kayıt tutmalıdır.
+
+EN: The batch record shall confirm the amount manufactured and amount released. TR: Parti kaydı, üretilen miktarı ve serbest bırakılan miktarı doğrulamalıdır.
+
+EN: Requirements for cleanliness of product shall be documented if product is cleaned by the organization prior to sterilization or use. TR: Ürün sterilizasyon veya kullanım öncesi kuruluş tarafından temizleniyorsa, ürün temizlik gereklilikleri dokümante edilmelidir.
+
+EN: The organization shall document requirements for installation and acceptance criteria for verification of installation. TR: Kuruluş, kurulum gerekliliklerini ve kurulumun doğrulanması için kabul kriterlerini dokümante etmelidir.
+
+EN: If servicing is a specified requirement, servicing procedures and records shall be documented. TR: Eğer servis (bakım/onarım) belirtilmiş bir gereklilikse, servis prosedürleri ve kayıtları dokümante edilmelidir.
+
+EN: Records of sterilization process parameters for each sterilization batch shall be maintained. TR: Her sterilizasyon partisi için sterilizasyon süreç parametrelerinin kayıtları tutulmalıdır.
+
+EN: The organization shall validate any processes for production and service provision where the resulting output cannot be or is not verified by subsequent monitoring or measurement. TR: Kuruluş, elde edilen çıktının sonraki izleme veya ölçme ile doğrulanamadığı veya doğrulanmadığı üretim ve hizmet sunumu süreçlerini valide etmelidir.
+
+EN: Validation demonstrates the ability of these processes to achieve planned results consistently. TR: Validasyon, bu süreçlerin planlanan sonuçlara tutarlı bir şekilde ulaşabilme yeteneğini gösterir.
+
+EN: Processes requiring validation include sterilization and sterile barrier systems. TR: Validasyon gerektiren süreçler, sterilizasyon ve steril bariyer sistemlerini içerir.
+
+EN: Validation arrangements include approval of equipment and qualification of personnel. TR: Validasyon düzenlemeleri, ekipman onayını ve personel kalifikasyonunu içerir.
+
+EN: Computer software used in production and service provision shall be validated. TR: Üretim ve hizmet sunumunda kullanılan bilgisayar yazılımları valide edilmelidir.
+
+EN: The organization shall document procedures for identification of product throughout product realization. TR: Kuruluş, ürün gerçekleştirme boyunca ürünün tanımlanması için prosedürler dokümante etmelidir.
+
+EN: The organization shall identify the status of product with respect to monitoring and measurement requirements. TR: Kuruluş, izleme ve ölçme gerekliliklerine göre ürünün durumunu tanımlamalıdır.
+
+EN: The organization shall document procedures for traceability. TR: Kuruluş, izlenebilirlik için prosedürler dokümante etmelidir.
+
+EN: For implantable medical devices, the organization shall maintain records of components, materials, and work environment conditions. TR: İmplante edilebilir tıbbi cihazlar için kuruluş; bileşenlerin, malzemelerin ve çalışma ortamı koşullarının kayıtlarını tutmalıdır.
+
+EN: Distributors shall maintain records of the distribution of medical devices. TR: Dağıtıcılar, tıbbi cihazların dağıtım kayıtlarını tutmalıdır.
+
+EN: The organization shall exercise care with customer property while it is under the organization's control. TR: Kuruluş, kendi kontrolü altındayken müşteri mülkiyetine özen göstermelidir.
+
+EN: If customer property is lost, damaged or found unsuitable, it shall be reported to the customer. TR: Müşteri mülkiyeti kaybolur, hasar görür veya uygunsuz bulunursa, müşteriye rapor edilmelidir.
+
+EN: The organization shall document procedures for preserving the product. TR: Kuruluş, ürünün korunması (muhafaza edilmesi) için prosedürler dokümante etmelidir.
+
+EN: Preservation applies to the constituent parts of a medical device. TR: Koruma, tıbbi cihazın kurucu parçaları (bileşenleri) için de geçerlidir.
+
+EN: Preservation ensures conformity during processing, storage, handling, and distribution. TR: Koruma; işleme, depolama, taşıma ve dağıtım sırasında uygunluğu sağlar.
+
+Part 8: Control of Monitoring and Measuring Equipment / İzleme ve Ölçme Ekipmanının Kontrolü
+EN: The organization shall determine the monitoring and measurement to be undertaken. TR: Kuruluş, yapılması gereken izleme ve ölçmeyi belirlemelidir.
+
+EN: Measuring equipment shall be calibrated or verified at specified intervals, or prior to use. TR: Ölçüm ekipmanı, belirlenen aralıklarla veya kullanımdan önce kalibre edilmeli veya doğrulanmalıdır.
+
+EN: Calibration shall be traceable to international or national measurement standards. TR: Kalibrasyon, uluslararası veya ulusal ölçüm standartlarına izlenebilir olmalıdır.
+
+EN: Equipment shall be identified to enable the calibration status to be determined. TR: Ekipman, kalibrasyon durumunun belirlenebilmesi için tanımlanmalıdır.
+
+EN: Equipment shall be safeguarded from adjustments that would invalidate the measurement result. TR: Ekipman, ölçüm sonucunu geçersiz kılacak ayarlamalardan korunmalıdır.
+
+EN: The organization shall assess the validity of previous measuring results when the equipment is found not to conform. TR: Ekipmanın uygun olmadığı tespit edildiğinde, kuruluş önceki ölçüm sonuçlarının geçerliliğini değerlendirmelidir.
+
+EN: Computer software used for monitoring and measurement of requirements shall be validated. TR: Gerekliliklerin izlenmesi ve ölçülmesi için kullanılan bilgisayar yazılımları valide edilmelidir.
+
+Part 9: Measurement, Analysis and Improvement / Ölçme, Analiz ve İyileştirme
+EN: The organization shall plan and implement monitoring, measurement, analysis and improvement processes. TR: Kuruluş; izleme, ölçme, analiz ve iyileştirme süreçlerini planlamalı ve uygulamalıdır.
+
+EN: As one of the measurements of the performance of the QMS, the organization shall gather information from feedback. TR: KYS performansının ölçümlerinden biri olarak, kuruluş geri bildirimlerden bilgi toplamalıdır.
+
+EN: The feedback process shall focus on whether the organization has met customer requirements. TR: Geri bildirim süreci, kuruluşun müşteri şartlarını karşılayıp karşılamadığına odaklanmalıdır.
+
+EN: The organization shall document procedures for timely complaint handling in accordance with regulatory requirements. TR: Kuruluş, yasal gerekliliklere uygun olarak zamanında şikayet yönetimi için prosedürler dokümante etmelidir.
+
+EN: If any complaint is not investigated, justification shall be documented. TR: Herhangi bir şikayet araştırılmıyorsa, gerekçesi dokümante edilmelidir.
+
+EN: The organization shall document procedures for notification to appropriate regulatory authorities (Adverse Events). TR: Kuruluş, uygun yasal otoritelere bildirim (Advers Olaylar) yapılması için prosedürler dokümante etmelidir.
+
+EN: Internal audits are conducted to determine if the QMS conforms to planned arrangements and is effectively implemented. TR: İç tetkikler, KYS'nin planlanan düzenlemelere uyup uymadığını ve etkin bir şekilde uygulanıp uygulanmadığını belirlemek için yapılır.
+
+EN: An audit program shall be planned, taking into consideration the status and importance of the processes. TR: Süreçlerin durumu ve önemi dikkate alınarak bir denetim programı planlanmalıdır.
+
+EN: Auditors shall not audit their own work. TR: Denetçiler kendi işlerini denetlememelidir.
+
+EN: The organization shall apply suitable methods for monitoring and, where applicable, measurement of the QMS processes. TR: Kuruluş, KYS süreçlerinin izlenmesi ve uygulanabilir olduğunda ölçülmesi için uygun yöntemler uygulamalıdır.
+
+EN: The organization shall monitor and measure the characteristics of the product to verify that product requirements have been met. TR: Kuruluş, ürün şartlarının karşılandığını doğrulamak için ürünün özelliklerini izlemeli ve ölçmelidir.
+
+EN: Product release and service delivery shall not proceed until the planned arrangements have been satisfactorily completed. TR: Planlanan düzenlemeler tatmin edici bir şekilde tamamlanmadan ürün serbest bırakma ve hizmet teslimi gerçekleştirilemez.
+
+EN: For implantable medical devices, the identity of personnel performing any inspection or testing shall be recorded. TR: İmplante edilebilir tıbbi cihazlar için, herhangi bir muayene veya test yapan personelin kimliği kaydedilmelidir.
+
+EN: The organization shall ensure that product which does not conform to product requirements is identified and controlled. TR: Kuruluş, ürün şartlarına uymayan ürünün tanımlanmasını ve kontrol edilmesini sağlamalıdır.
+
+EN: Nonconforming product shall be segregated to prevent unintended use. TR: Uygun olmayan ürün, istenmeyen kullanımı önlemek için ayrılmalıdır.
+
+EN: The organization shall deal with nonconforming product by eliminating the detected nonconformity (rework). TR: Kuruluş, tespit edilen uygunsuzluğu gidererek (yeniden işleme) uygun olmayan ürünle ilgilenmelidir.
+
+EN: The organization may authorize acceptance under concession. TR: Kuruluş, sapma (taviz) ile kabul yetkisi verebilir.
+
+EN: When nonconforming product is detected after delivery, the organization shall take action appropriate to the effects. TR: Teslimattan sonra uygun olmayan ürün tespit edildiğinde, kuruluş etkilere uygun aksiyon almalıdır.
+
+EN: The organization shall document procedures to determine, collect and analyze appropriate data. TR: Kuruluş; uygun verileri belirlemek, toplamak ve analiz etmek için prosedürler dokümante etmelidir.
+
+EN: The analysis of data shall provide information relating to feedback, conformity to product requirements, and trends. TR: Veri analizi; geri bildirim, ürün şartlarına uygunluk ve trendlerle (eğilimler) ilgili bilgi sağlamalıdır.
+
+EN: The organization shall identify and implement any changes necessary to ensure and maintain the continued suitability of the QMS. TR: Kuruluş, KYS'nin sürekli uygunluğunu ve etkinliğini sağlamak için gerekli değişiklikleri belirlemeli ve uygulamalıdır.
+
+EN: Corrective action is taken to eliminate the cause of nonconformities in order to prevent recurrence. TR: Düzeltici faaliyet, tekrarını önlemek amacıyla uygunsuzlukların nedenini ortadan kaldırmak için yapılır.
+
+EN: Preventive action is taken to eliminate the causes of potential nonconformities in order to prevent their occurrence. TR: Önleyici faaliyet, oluşmasını önlemek amacıyla potansiyel uygunsuzlukların nedenlerini ortadan kaldırmak için yapılır.
+
+Part 10: GMP (Good Manufacturing Practices) & Definitions / GMP ve Tanımlar
+EN: GMP stands for Good Manufacturing Practices. TR: GMP, "İyi Üretim Uygulamaları" anlamına gelir.
+
+EN: cGMP stands for Current Good Manufacturing Practices. TR: cGMP, "Güncel İyi Üretim Uygulamaları" anlamına gelir.
+
+EN: Medical device GMPs are a set of regulations, codes, and guidelines for the manufacturing of devices. TR: Tıbbi cihaz GMP'leri, cihazların üretimi için bir dizi düzenleme, kural ve kılavuzdur.
+
+EN: GMPs apply to manufacturers of finished medical devices. TR: GMP'ler, bitmiş tıbbi cihaz üreticilerine uygulanır.
+
+EN: Medical device GMPs are flexible; they state what must be done, not how. TR: Tıbbi cihaz GMP'leri esnektir; ne yapılması gerektiğini belirtir, nasıl yapılacağını değil.
+
+EN: FDA QSR (Quality System Regulation) is found in 21 CFR Part 820. TR: FDA QSR (Kalite Sistem Yönetmeliği), 21 CFR Bölüm 820'de bulunur.
+
+EN: DMR (Device Master Record) is a compilation of records containing the procedures and specifications for a finished device. TR: DMR (Cihaz Ana Kaydı), bitmiş bir cihaz için prosedürleri ve spesifikasyonları içeren kayıtların derlemesidir.
+
+EN: DHR (Device History Record) contains the production history of a finished device. TR: DHR (Cihaz Geçmişi Kaydı), bitmiş bir cihazın üretim geçmişini içerir.
+
+EN: DHF (Design History File) describes the design history of a finished device. TR: DHF (Tasarım Geçmişi Dosyası), bitmiş bir cihazın tasarım tarihçesini tanımlar.
+
+EN: Quality is the degree to which a set of inherent characteristics fulfills requirements. TR: Kalite, bir yapısal özellikler kümesinin gereklilikleri yerine getirme derecesidir.
+
+EN: Specification is a document stating requirements. TR: Spesifikasyon, gereklilikleri belirten bir dokümandır.
+
+EN: Quality Assurance (QA) is part of quality management focused on providing confidence that quality requirements will be fulfilled. TR: Kalite Güvence (QA), kalite gerekliliklerinin yerine getirileceğine dair güven sağlamaya odaklanan kalite yönetiminin bir parçasıdır.
+
+EN: Quality Control (QC) is part of quality management focused on fulfilling quality requirements. TR: Kalite Kontrol (QC), kalite gereklilikleri yerine getirmeye odaklanan kalite yönetiminin bir parçasıdır.
+
+EN: Validation means confirmation, through the provision of objective evidence, that the requirements for a specific intended use or application have been fulfilled. TR: Validasyon (Geçerli Kılma); özel bir kullanım amacı veya uygulama için gerekliliklerin yerine getirildiğinin, objektif kanıt sağlanarak doğrulanması anlamına gelir.
+
+EN: Verification means confirmation, through the provision of objective evidence, that specified requirements have been fulfilled. TR: Verifikasyon (Doğrulama); belirtilen gerekliliklerin yerine getirildiğinin, objektif kanıt sağlanarak doğrulanması anlamına gelir.
+
+EN: Advisory notice is a notice issued by the organization ensuring compliance with legal requirements (e.g., recall). TR: Uyarı notu, kuruluş tarafından yasal gerekliliklere uyumu sağlamak için yayınlanan bir bildirimdir (örn. geri çağırma).
+
+EN: Customer complaint is a written, electronic or oral communication that alleges deficiencies related to the identity, quality, durability, reliability, safety or performance of a medical device. TR: Müşteri şikayeti; bir tıbbi cihazın kimliği, kalitesi, dayanıklılığı, güvenilirliği, güvenliği veya performansı ile ilgili eksiklikleri iddia eden yazılı, elektronik veya sözlü iletişimdir.
+
+EN: Post-market surveillance is a systematic process to collect and analyze experience gained from medical devices that have been placed on the market. TR: Piyasaya arz sonrası gözetim, piyasaya sürülen tıbbi cihazlardan elde edilen deneyimi toplamak ve analiz etmek için sistematik bir süreçtir.
+
+Part 11: Additional Principles & Exam Tips / Ek Prensipler ve Sınav İpuçları
+EN: Process approach: A desired result is achieved more efficiently when activities and related resources are managed as a process. TR: Süreç yaklaşımı: Faaliyetler ve ilgili kaynaklar bir süreç olarak yönetildiğinde, istenen sonuca daha verimli bir şekilde ulaşılır.
+
+EN: Improvement of the organization's overall performance should be a permanent objective. TR: Kuruluşun genel performansının iyileştirilmesi kalıcı bir hedef olmalıdır.
+
+EN: Effective decisions are based on the analysis of data and information (Evidence-based decision making). TR: Etkin kararlar, veri ve bilginin analizine dayanır (Kanıta dayalı karar verme).
+
+EN: An organization and its external providers (suppliers) are interdependent. TR: Bir kuruluş ve dış sağlayıcıları (tedarikçiler) birbirine bağımlıdır.
+
+EN: Mutually beneficial relationships enhance the ability of both to create value. TR: Karşılıklı faydaya dayalı ilişkiler, her ikisinin de değer yaratma yeteneğini artırır.
+
+EN: Customer focus: Organizations depend on their customers and should understand current and future customer needs. TR: Müşteri odaklılık: Kuruluşlar müşterilerine bağlıdır ve mevcut ve gelecekteki müşteri ihtiyaçlarını anlamalıdır.
+
+EN: Leadership: Leaders establish unity of purpose and direction of the organization. TR: Liderlik: Liderler, kuruluşun amaç ve yön birliğini oluştururlar.
+
+EN: Involvement of people: People at all levels are the essence of an organization. TR: Kişilerin katılımı: Her seviyedeki insanlar bir kuruluşun özüdür.
+
+EN: System approach to management: Identifying, understanding and managing interrelated processes as a system contributes to effectiveness. TR: Yönetimde sistem yaklaşımı: Birbiriyle ilişkili süreçlerin bir sistem olarak tanımlanması, anlaşılması ve yönetilmesi etkinliğe katkıda bulunur.
+
+EN: Design Risk Analysis must identify all individual hazards (including software). TR: Tasarım Risk Analizi, tüm bireysel tehlikeleri (yazılım dahil) tanımlamalıdır.
+
+EN: FMEA (Failure Modes and Effects Analysis) is a tool for risk analysis. TR: FMEA (Hata Türleri ve Etkileri Analizi), risk analizi için bir araçtır.
+
+EN: Manufacturers must establish and maintain procedures for identifying valid statistical techniques. TR: Üreticiler, geçerli istatistiksel teknikleri tanımlamak için prosedürler oluşturmalı ve sürdürmelidir.
+
+EN: Sampling plans shall be written and based on a valid statistical rationale. TR: Örnekleme planları yazılı olmalı ve geçerli bir istatistiksel mantığa dayanmalıdır.
+
+EN: Each manufacturer shall maintain an audit file containing the audit reports. TR: Her üretici, denetim raporlarını içeren bir denetim dosyası tutmalıdır.
+
+EN: Re-audits are required when corrective actions need to be verified. TR: Düzeltici faaliyetlerin doğrulanması gerektiğinde yeniden denetimler zorunludur.
+
+EN: ISO 13485 is a standalone standard. TR: ISO 13485 bağımsız (tek başına) bir standarttır.
+
+EN: ISO 13485 is based on ISO 9001 process model approach. TR: ISO 13485, ISO 9001 süreç modeli yaklaşımını temel alır.
+
+EN: Documented procedures are required for issuing and recording advisory notices. TR: Uyarı notlarının yayınlanması ve kaydedilmesi için dokümante edilmiş prosedürler gereklidir.
+
+EN: The organization shall designate an individual to authorize release of product. TR: Kuruluş, ürünün serbest bırakılmasını onaylayacak bir kişiyi atamalıdır.
+
+EN: Records of the name of the person authorizing release shall be maintained. TR: Serbest bırakmayı onaylayan kişinin isminin kayıtları tutulmalıdır.
+
+EN: Any concession (deviation request) shall be documented and justified. TR: Herhangi bir sapma (taviz talebi) dokümante edilmeli ve gerekçelendirilmelidir.
+
+EN: Reworked product must be re-verified to demonstrate conformity. TR: Yeniden işlenmiş ürün, uygunluğu göstermek için tekrar doğrulanmalıdır.
+
+EN: Complaint files shall be maintained by a formally designated unit. TR: Şikayet dosyaları, resmi olarak atanmış bir birim tarafından tutulmalıdır.
+
+EN: The organization shall evaluate any complaint to determine if it should be reported to FDA (or other authorities). TR: Kuruluş, FDA'ya (veya diğer otoritelere) bildirilmesi gerekip gerekmediğini belirlemek için her şikayeti değerlendirmelidir.
+
+EN: Labels shall remain legible and affixed during the customary conditions of processing, storage, handling, distribution, and use. TR: Etiketler; işleme, depolama, taşıma, dağıtım ve kullanımın olağan koşulları sırasında okunabilir ve yapışık kalmalıdır.
+
+EN: Labeling operations shall be controlled to prevent labeling mix-ups. TR: Etiketleme operasyonları, etiket karışıklıklarını önlemek için kontrol edilmelidir.
+
+EN: Storage areas shall prevent mix-ups, damage, deterioration, contamination, or other adverse effects. TR: Depolama alanları; karışıklıkları, hasarı, bozulmayı, kontaminasyonu veya diğer olumsuz etkileri önlemelidir.
+
+EN: No obsolete, rejected, or deteriorated product is distributed. TR: Hiçbir eski, reddedilmiş veya bozulmuş ürün dağıtılmaz.
+
+EN: Stock rotation (First In First Out) is often used to prevent deterioration. TR: Bozulmayı önlemek için genellikle stok rotasyonu (İlk Giren İlk Çıkar) kullanılır.
+
+EN: Traceability is the ability to trace the history, application or location of that which is under consideration. TR: İzlenebilirlik; ele alınan şeyin geçmişini, uygulamasını veya konumunu izleme yeteneğidir.
+
+EN: Installation and servicing records are part of traceability. TR: Kurulum ve servis kayıtları izlenebilirliğin bir parçasıdır.
+
+EN: Calibration standards shall be traceable to national or international standards. TR: Kalibrasyon standartları, ulusal veya uluslararası standartlara izlenebilir olmalıdır.
+
+EN: If no such standards exist (for calibration), the basis used for calibration shall be recorded. TR: (Kalibrasyon için) böyle standartlar yoksa, kalibrasyon için kullanılan esas kaydedilmelidir.
+
+EN: Calibration procedures shall include specific directions and limits for accuracy and precision. TR: Kalibrasyon prosedürleri; doğruluk ve kesinlik için özel talimatları ve limitleri içermelidir.
+
+EN: A corrective action prevents the recurrence of a nonconformity. TR: Düzeltici faaliyet, bir uygunsuzluğun tekrarını önler.
+
+EN: A preventive action prevents the occurrence of a potential nonconformity. TR: Önleyici faaliyet, potansiyel bir uygunsuzluğun oluşmasını önler.
+
+EN: Quality audit is a systematic, independent and documented process. TR: Kalite denetimi; sistematik, bağımsız ve dokümante edilmiş bir süreçtir.
+
+EN: Audit evidence is records, statements of fact or other information which are relevant to the audit criteria and verifiable. TR: Denetim kanıtı; denetim kriterleriyle ilgili ve doğrulanabilir olan kayıtlar, durum beyanları veya diğer bilgilerdir.
+
+EN: Top management reviews the QMS to ensure its continuing suitability, adequacy and effectiveness. TR: Üst yönetim; KYS'nin sürekli uygunluğunu, yeterliliğini ve etkinliğini sağlamak için KYS'yi gözden geçirir.
+
+EN: The organization shall not use waivers or deviations from the device specifications (unless authorized). TR: Kuruluş, cihaz spesifikasyonlarından feragatleri veya sapmaları (yetkilendirilmedikçe) kullanmamalıdır.
+
+EN: Personnel shall have the necessary education, background, training, and experience. TR: Personel gerekli öğrenime, geçmişe, eğitime ve deneyime sahip olmalıdır.
+
+EN: Consultants advising on the QMS shall have sufficient qualifications. TR: KYS konusunda danışmanlık yapan danışmanlar yeterli niteliklere sahip olmalıdır.
+
+EN: Buildings shall be of suitable design and contain sufficient space to perform necessary operations. TR: Binalar uygun tasarımda olmalı ve gerekli operasyonları gerçekleştirmek için yeterli alanı içermelidir.
+
+EN: Necessary operations include placement of equipment and storage of materials. TR: Gerekli operasyonlar, ekipmanın yerleştirilmesini ve malzemelerin depolanmasını içerir.
+
+EN: Lighting, ventilation, temperature, and humidity shall be controlled when necessary. TR: Gerekli olduğunda aydınlatma, havalandırma, sıcaklık ve nem kontrol edilmelidir.
+
+EN: The FDA QSR aligns closely with ISO 13485 but has some specific differences (e.g., complaint files location). TR: FDA QSR, ISO 13485 ile yakından uyumludur ancak bazı spesifik farklılıkları vardır (örn. şikayet dosyalarının yeri).

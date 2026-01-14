@@ -341,18 +341,26 @@
                     ${isActive ? 'bg-gradient-to-r from-hk_hot to-pink-400 text-white border-transparent shadow-cute scale-105 mx-1' :
                         'bg-white text-hk_text border-pink-100 hover:bg-pink-50 hover:border-pink-300 hover:shadow-md'}`;
 
-                let preview = item.en.split('\n')[0].substring(0, 30);
-                if (preview.length >= 30) preview += '...';
+                // Extract a meaningful title/preview
+                // Use the first line of Turkish text (usually title) or English if TR is empty
+                let fullTitle = item.tr.split('\n')[0].trim();
+                if (!fullTitle) fullTitle = item.tr.substring(0, 50).trim();
+                if (!fullTitle) fullTitle = item.en.split('\n')[0].trim();
+
+                // Clean up title (remove 'Page X' if it's in the text)
+                fullTitle = fullTitle.replace(/^Page \d+\s*/i, '');
 
                 btn.innerHTML = `
-                    <div class="flex justify-between items-center font-bold font-cute">
-                        <span class="flex items-center gap-2">
+                    <div class="flex justify-between items-start font-bold font-cute w-full">
+                        <span class="flex items-center gap-2 shrink-0">
                              ${isActive ? '<i class="fas fa-heart animate-pulse"></i>' : '<i class="fas fa-circle text-[8px] opacity-40 group-hover:text-hk_hot"></i>'}
                              Page ${item.p}
                         </span>
-                        ${isActive ? '<i class="fas fa-chevron-right"></i>' : ''}
+                        ${isActive ? '<i class="fas fa-chevron-right mt-1"></i>' : ''}
                     </div>
-                    <div class="text-xs opacity-80 truncate font-sans ml-4">${preview}</div>
+                    <div class="text-xs opacity-90 font-sans ml-4 leading-snug break-words">
+                        ${fullTitle || '...'}
+                    </div>
                 `;
                 btn.onclick = () => loadPage(item.p);
                 pageListEl.appendChild(btn);
